@@ -13,9 +13,9 @@ O objetivo da página é apresentar a empresa, seus serviços e visão, demonstr
 ## 🛠️ Tecnologias Utilizadas  
 - **HTML5** e **CSS3** para estruturação e estilização.  
 - **JavaScript** para interatividade.  
-  
 
 ## 📷 Visualização  
 ![Sky Way Consultoria](./imgs/landing%20page.png)  
 
-  
+TCC desenvolvido pela equipe Alcance Global  
+[Link do projeto: TCC ](https://sowza82.github.io/TCC_AlcanceGlobal-EDN/)
