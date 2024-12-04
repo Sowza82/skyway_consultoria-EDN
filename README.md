@@ -13,7 +13,7 @@ O objetivo da página é apresentar a empresa, seus serviços e visão, demonstr
 ## 🛠️ Tecnologias Utilizadas  
 - **HTML5** e **CSS3** para estruturação e estilização.  
 - **JavaScript** para interatividade.  
-- **MySQL** para gerenciamento de dados (se houver backend).  
+  
 
 ## 📷 Visualização  
 ![Sky Way Consultoria](./imgs/landing%20page.png)  
